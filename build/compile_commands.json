@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/build",
+  "command": "/usr/bin/cc  -I/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes  -arch arm64 -o CMakeFiles/glad.dir/src/glad.c.o -c /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/src/glad.c",
+  "file": "/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/src/glad.c",
+  "output": "CMakeFiles/glad.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/build",
+  "command": "/usr/bin/c++  -I/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -std=gnu++17 -arch arm64 -o CMakeFiles/black_hole.dir/src/main.cpp.o -c /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/src/main.cpp",
+  "file": "/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/src/main.cpp",
+  "output": "CMakeFiles/black_hole.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/build",
+  "command": "/usr/bin/cc  -I/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks  -arch arm64 -o CMakeFiles/black_hole.dir/src/glad.c.o -c /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/src/glad.c",
+  "file": "/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/src/glad.c",
+  "output": "CMakeFiles/black_hole.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/build",
+  "command": "/usr/bin/c++  -I/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -std=gnu++17 -arch arm64 -o CMakeFiles/black_hole.dir/src/shader.cpp.o -c /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/src/shader.cpp",
+  "file": "/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/src/shader.cpp",
+  "output": "CMakeFiles/black_hole.dir/src/shader.cpp.o"
+}
+]

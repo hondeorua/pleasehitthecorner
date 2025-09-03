@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/black_hole.dir/src/main.cpp.o.d"
   "CMakeFiles/black_hole.dir/src/shader.cpp.o"
   "CMakeFiles/black_hole.dir/src/shader.cpp.o.d"
+  "CMakeFiles/black_hole.dir/src/stb_image.cpp.o"
+  "CMakeFiles/black_hole.dir/src/stb_image.cpp.o.d"
   "black_hole"
   "black_hole.pdb"
 )

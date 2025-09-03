@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/src/glad.c" "CMakeFiles/black_hole.dir/src/glad.c.o" "gcc" "CMakeFiles/black_hole.dir/src/glad.c.o.d"
   "/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/src/main.cpp" "CMakeFiles/black_hole.dir/src/main.cpp.o" "gcc" "CMakeFiles/black_hole.dir/src/main.cpp.o.d"
   "/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/src/shader.cpp" "CMakeFiles/black_hole.dir/src/shader.cpp.o" "gcc" "CMakeFiles/black_hole.dir/src/shader.cpp.o.d"
+  "/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/src/stb_image.cpp" "CMakeFiles/black_hole.dir/src/stb_image.cpp.o" "gcc" "CMakeFiles/black_hole.dir/src/stb_image.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

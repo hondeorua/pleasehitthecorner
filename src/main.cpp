@@ -12,6 +12,7 @@ const char *FRAGMENT_SHADER_PATH = "../src/shaders/shader.frag";
 GLFWwindow *window;
 
 void framebuffer_size_callback(GLFWwindow *window, int width, int height);
+void processInput(GLFWwindow* window, Shader shader, float& visibility_of_face);
 
 int main() {
 
@@ -58,26 +59,39 @@ int main() {
       1, 2, 3  // second triangle
   };
 
-  unsigned int VAO, VBO, EBO, Texture;
+  unsigned int VAO, VBO, EBO, Texture1, Texture2;
   glGenVertexArrays(1, &VAO);
   glGenBuffers(1, &VBO);
   glGenBuffers(1, &EBO);
 
-  glGenTextures(1, &Texture);
-  glBindTexture(GL_TEXTURE_2D, Texture);
-
-  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_REPEAT);
-  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_REPEAT);
-  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER,
-                  GL_LINEAR_MIPMAP_LINEAR);
-  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
-
+  glGenTextures(1, &Texture1);
+  glBindTexture(GL_TEXTURE_2D, Texture1);
   int width, height, nrChannels;
-  unsigned char *data =
-      stbi_load("../src/resources/container.jpg", &width, &height, &nrChannels, 0);
+  unsigned char *data = stbi_load("../src/resources/container.jpg", &width,
+                                  &height, &nrChannels, 0);
 
   if (data) {
     glTexImage2D(GL_TEXTURE_2D, 0, GL_RGB, width, height, 0, GL_RGB,
+                 GL_UNSIGNED_BYTE, data);
+    glGenerateMipmap(GL_TEXTURE_2D);
+  } else
+    throw std::runtime_error("Failed to load image");
+
+  stbi_image_free(data);
+
+  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_REPEAT);
+  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_REPEAT);
+  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
+  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR_MIPMAP_LINEAR);
+
+  glGenTextures(1, &Texture2);
+  glBindTexture(GL_TEXTURE_2D, Texture2);
+  stbi_set_flip_vertically_on_load(true);
+  data = stbi_load("../src/resources/hahahihi.png", &width, &height,
+                   &nrChannels, 0);
+
+  if (data) {
+    glTexImage2D(GL_TEXTURE_2D, 0, GL_RGBA, width, height, 0, GL_RGBA,
                  GL_UNSIGNED_BYTE, data);
     glGenerateMipmap(GL_TEXTURE_2D);
   } else
@@ -89,7 +103,8 @@ int main() {
   glBufferData(GL_ARRAY_BUFFER, sizeof(vertices), vertices, GL_STATIC_DRAW);
 
   glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, EBO);
-  glBufferData(GL_ELEMENT_ARRAY_BUFFER, sizeof(indices), indices, GL_STATIC_DRAW);
+  glBufferData(GL_ELEMENT_ARRAY_BUFFER, sizeof(indices), indices,
+               GL_STATIC_DRAW);
 
   glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 8 * sizeof(float),
                         (void *)(0 * sizeof(float)));
@@ -105,19 +120,26 @@ int main() {
   glBindVertexArray(0);
 
   shader.use();
-  shader.setInt("ourTexture", 0);
+  shader.setInt("Texture1", 0);
+  shader.setInt("Texture2", 1);
+  float visibility_of_face = 0.2;
+  shader.setFloat("visibility_of_face", 0.2);
 
   while (!glfwWindowShouldClose(window)) {
+    processInput(window, shader, visibility_of_face);
 
     glClearColor(0.0f, 0.0f, 0.0f, 1.0f);
     glClear(GL_COLOR_BUFFER_BIT);
 
     shader.use();
 
-    glBindTexture(GL_TEXTURE_2D, Texture);
+    glActiveTexture(GL_TEXTURE0);
+    glBindTexture(GL_TEXTURE_2D, Texture1);
+    glActiveTexture(GL_TEXTURE1);
+    glBindTexture(GL_TEXTURE_2D, Texture2);
     glBindVertexArray(VAO);
     // glDrawArrays(GL_TRIANGLES, 0, 3);
-    glDrawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0); 
+    glDrawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0);
 
     glfwSwapBuffers(window);
     glfwPollEvents();
@@ -129,4 +151,15 @@ int main() {
 
 void framebuffer_size_callback(GLFWwindow *window, int width, int height) {
   glViewport(0, 0, width * 2, height * 2);
+}
+
+void processInput (GLFWwindow* window, Shader shader, float& visibility_of_face){
+  if (glfwGetKey(window, GLFW_KEY_DOWN) == GLFW_PRESS){
+    visibility_of_face -= 0.05;
+    shader.setFloat("visibility_of_face", visibility_of_face);
+  }
+  if (glfwGetKey(window, GLFW_KEY_UP) == GLFW_PRESS){
+    visibility_of_face += 0.05;
+    shader.setFloat("visibility_of_face", visibility_of_face);
+  }
 }

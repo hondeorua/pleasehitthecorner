@@ -108,12 +108,14 @@ CMakeFiles/black_hole.dir/src/main.cpp.o: /Users/hvu/Personal_Projects/game/test
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/__wctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/__xlocale.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_abort.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_assert.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_bounds.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_ctermid.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_ctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_locale.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_mb_cur_max.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_printf.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_static_assert.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_stdlib.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_string.h \
@@ -142,6 +144,7 @@ CMakeFiles/black_hole.dir/src/main.cpp.o: /Users/hvu/Personal_Projects/game/test
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/arm/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/arm/signal.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/arm/types.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/assert.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/adjacent_find.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/all_of.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/any_of.h \
@@ -699,8 +702,10 @@ CMakeFiles/black_hole.dir/src/main.cpp.o: /Users/hvu/Personal_Projects/game/test
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/atomic \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/bit \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/bitset \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cassert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cctype \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cerrno \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cfloat \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/climits \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/clocale \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cmath \
@@ -720,6 +725,7 @@ CMakeFiles/black_hole.dir/src/main.cpp.o: /Users/hvu/Personal_Projects/game/test
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/errno.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/exception \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/filesystem \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/format \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/functional \
@@ -765,6 +771,7 @@ CMakeFiles/black_hole.dir/src/main.cpp.o: /Users/hvu/Personal_Projects/game/test
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/wctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/ctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/errno.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/float.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/libkern/_OSByteOrder.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/libkern/arm/_OSByteOrder.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/limits.h \
@@ -908,6 +915,7 @@ CMakeFiles/black_hole.dir/src/main.cpp.o: /Users/hvu/Personal_Projects/game/test
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/__stddef_rsize_t.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/__stddef_size_t.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/__stddef_wchar_t.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/17/include/float.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/limits.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/ptrcheck.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdarg.h \
@@ -916,6 +924,307 @@ CMakeFiles/black_hole.dir/src/main.cpp.o: /Users/hvu/Personal_Projects/game/test
   /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/GLFW/glfw3.h \
   /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/KHR/khrplatform.h \
   /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glad/glad.h \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/common.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/common.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/vector_relational.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/_vectorize.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/func_exponential.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/func_vector_relational.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/qualifier.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/setup.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec1.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/exponential.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/vector_relational.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/compute_vector_relational.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/_fixes.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/_vectorize.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/compute_common.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/func_common.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/func_geometric.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/qualifier.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/setup.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec1.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec1.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/geometric.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/matrix.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat2x2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat2x3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat2x3.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat2x4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat2x4.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat3x2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat3x2.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat3x3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat3x3.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat3x4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat3x4.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat4x2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat4x2.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat4x3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat4x3.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat4x4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat4x4.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double2x3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double2x3_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double2x4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double2x4_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double3x2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double3x2_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double3x3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double3x3_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double3x4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double3x4_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double4x2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double4x2_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double4x3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double4x3_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double4x4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double4x4_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float2x3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float2x3_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float2x4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float2x4_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float3x2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float3x2_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float3x3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float3x3_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float3x4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float3x4_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float4x2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float4x2_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float4x3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float4x3_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float4x4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float4x4_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/geometric.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/func_matrix.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/qualifier.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/setup.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat2x2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat2x3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat2x4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat3x2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat3x3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat3x4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat4x2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat4x3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat4x4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/matrix.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/vec2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/vec3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/vec4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/compute_vector_relational.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/setup.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/_vectorize.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/compute_vector_decl.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/compute_vector_relational.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/qualifier.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/setup.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat2x2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat2x2.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec2.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec3.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec4.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/setup.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/scalar_int_sized.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/scalar_uint_sized.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_int2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_int3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_int4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_uint2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_uint3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_uint4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double2x2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double2x2_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float2x2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float2x2_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_bool2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_bool2_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_bool3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_bool3_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_bool4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_bool4_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_double2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_double2_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_double3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_double3_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_double4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_double4_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_float2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_float2_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_float3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_float3_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_float4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_float4_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_int2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_int2_sized.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_int3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_int3_sized.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_int4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_int4_sized.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_uint2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_uint2_sized.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_uint3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_uint3_sized.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_uint4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_uint4_sized.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/common.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/common.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/simd/platform.h \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/_fixes.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/_vectorize.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/func_integer.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/func_packing.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/func_trigonometric.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/qualifier.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/setup.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_half.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_half.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/exponential.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/fwd.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/geometric.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/glm.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/scalar_constants.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/geometric.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/setup.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/scalar_constants.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/scalar_constants.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/constants.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/constants.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/matrix.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/trigonometric.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_clip_space.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_clip_space.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_projection.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_projection.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_transform.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_transform.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/geometric.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/common.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/qualifier.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/setup.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat3x3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat4x4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/exponential.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/common.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat3x3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat4x4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/exponential.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/vector_relational.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_common.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_geometric.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_relational.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_relational.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_relational.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/constants.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/matrix_transform.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/trigonometric.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/qualifier.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/setup.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_float.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_quat.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_quat.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec1.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/exponential.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/exponential.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_relational.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/geometric.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_geometric.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_geometric.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/scalar_constants.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/scalar_int_sized.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/scalar_uint_sized.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_int1.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_uint1.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/geometric.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/trigonometric.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/vector_relational.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_common.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_common.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_double.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_double_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_float.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_float_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_geometric.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_relational.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_transform.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_transform.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_trigonometric.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_trigonometric.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/scalar_constants.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_bool1.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_bool1_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_double1.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_double1_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_float1.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_float1_precision.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_int1.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_int1_sized.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_relational.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_relational.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_uint1.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_uint1_sized.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/geometric.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/constants.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/matrix_transform.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/trigonometric.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/vector_relational.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/epsilon.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/epsilon.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/quaternion.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/quaternion.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/vec1.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat2x2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat2x3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat2x4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat3x2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat3x3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat3x4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat4x2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat4x3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat4x4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/matrix.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/trigonometric.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/vec2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/vec3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/vec4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/matrix_transform.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/matrix_transform.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/type_ptr.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/type_ptr.inl \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/integer.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat2x2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat2x3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat2x4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat3x2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat3x3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat3x4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat4x2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat4x3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat4x4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/matrix.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/packing.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/trigonometric.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/vec2.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/vec3.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/vec4.hpp \
+  /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/vector_relational.hpp \
   /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/shader.hpp \
   /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/stb_image.h
 
@@ -1985,21 +2294,245 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
   /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/stb_image.h
 
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/assert.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_assert.h:
-
 /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/src/stb_image.cpp:
 
 /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/stb_image.h:
 
 /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/shader.hpp:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/integer.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/type_ptr.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/type_ptr.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/vec1.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/quaternion.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_int1_sized.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_float1_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_float1.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_bool1.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_trigonometric.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_trigonometric.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_transform.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_transform.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_float_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_common.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_uint1.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_quat.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_uint1_sized.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_float.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/matrix_transform.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_relational.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_relational.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_common.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_transform.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_projection.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_clip_space.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/trigonometric.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/scalar_constants.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/fwd.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_half.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_half.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/func_packing.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/func_integer.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/simd/platform.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_uint3_sized.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_int4_sized.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_int2_sized.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_float4_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_float4.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_float3_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_float2_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_float2.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_double4_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_double4.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_double3_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_double3.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_double2.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_bool4.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_bool3_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_bool2_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_bool2.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float2x2_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float2x2.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double2x2.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_bool3.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_uint4.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_int4.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_int2.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/scalar_uint_sized.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec4.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat2x2.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/vec3.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/vec2.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat4x3.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat3x3.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat3x2.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat2x3.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float4x4_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float4x3_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float4x2_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float4x2.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float3x4_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float3x3_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/constants.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float3x2_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float2x4.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float2x3.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double4x4_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double4x4.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double4x3_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double4x2_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double4x2.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double3x4_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double3x4.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double3x3_precision.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double3x3.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double2x4.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat4x2.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double2x3.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat4x4.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat4x4.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat4x3.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat4x2.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat4x2.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat3x4.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat3x3.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat3x3.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat3x2.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat2x4.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec1.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/func_geometric.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat2x2.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/_fixes.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/exponential.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec4.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec3.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec2.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec1.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/setup.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/qualifier.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/func_vector_relational.inl:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/_vectorize.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/vector_relational.hpp:
+
 /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stddef.h:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdarg.h:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/17/include/limits.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double2x2_precision.hpp:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/17/include/__stddef_wchar_t.h:
 
@@ -2027,13 +2560,13 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/xlocale/___wctype.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/is_valid_range.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/xlocale.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/wchar.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/wctype.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/file_status.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/time.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/unistd.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/syslimits.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/errno.h:
 
@@ -2051,11 +2584,19 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_gid_t.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/scalar_constants.inl:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/float.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_fsfilcnt_t.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/epsilon.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_fsblkcnt_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_fd_setsize.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_clip_space.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_caddr_t.h:
 
@@ -2067,15 +2608,13 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/stddef.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/float.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/find_if.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/movable_box.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/wctype.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/exponential_functions.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/wchar.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/version:
 
@@ -2115,8 +2654,6 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/string.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/stdlib.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/perm_options.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/stdio.h:
@@ -2124,6 +2661,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/stdint.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/stdexcept:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_double.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/print:
 
@@ -2135,11 +2674,15 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/locale.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/func_common.inl:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/iosfwd:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/unwrap_range.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/functional:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_relational.inl:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/format:
 
@@ -2156,6 +2699,10 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_int64_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cctype:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cassert:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat2x4.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/bit:
 
@@ -2199,6 +2746,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/void_t.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_double_precision.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/qos.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/underlying_type.h:
@@ -2231,6 +2780,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_const.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_bool1_precision.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__cstddef/max_align_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_once_t.h:
@@ -2250,6 +2801,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/make_32_64_or_128_bit.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_unsigned_integer.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/matrix_transform.inl:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_trivially_relocatable.h:
 
@@ -2301,6 +2854,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_nothrow_constructible.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat4x3.inl:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_nothrow_assignable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_member_pointer.h:
@@ -2318,8 +2873,6 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_integral.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_fundamental.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/time.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_function.h:
 
@@ -2343,7 +2896,11 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_clock_t.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/matrix.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_convertible.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_geometric.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/string_view:
 
@@ -2351,15 +2908,23 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_const.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/wchar.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/is_valid_range.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/byte.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_compound.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_char_like_type.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double2x3_precision.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_nlink_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_base_of.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_float.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_always_bitcastable.h:
 
@@ -2401,6 +2966,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/datasizeof.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat2x2.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/generate.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/copy_cv.h:
@@ -2427,7 +2994,13 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/aligned_storage.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec2.inl:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/add_volatile.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_uint3.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat3x4.inl:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/add_rvalue_reference.h:
 
@@ -2437,11 +3010,17 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/add_lvalue_reference.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat3x4.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/align.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/add_cv.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_uint4_sized.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/decay.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/compute_vector_decl.hpp:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/17/include/__stdarg___gnuc_va_list.h:
 
@@ -2458,6 +3037,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/forward.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/tuple_element.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat2x3.inl:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_reference.h:
 
@@ -2489,6 +3070,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__split_buffer:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat2x3.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/find_first_of.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/subrange.h:
@@ -2503,11 +3086,15 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/promote.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/func_trigonometric.inl:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/size.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/sort_heap.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/has_virtual_destructor.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_uint2_sized.hpp:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdbool.h:
 
@@ -2537,11 +3124,17 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/uniform_int_distribution.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_double1.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/log2.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_double2_precision.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory_resource/polymorphic_allocator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_mutex_t.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float3x3.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/any_of.h:
 
@@ -2602,6 +3195,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/roots.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/has_unique_object_representation.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/common.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/remainder.h:
 
@@ -2667,19 +3262,17 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/default_sentinel.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_constructible.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/memory_resource.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/data.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/concepts.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/bounded_iter.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/locale_base_api.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/___wctype.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/aliasing_iterator.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat4x4.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/lower_bound.h:
 
@@ -2688,6 +3281,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/simd_utils.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/subrange.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/packing.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_union.h:
 
@@ -2737,17 +3332,23 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/runetype.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/constants.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_locale.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/reverse_iterator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/stdint.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_bool4_precision.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/is_transparent.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_implicitly_default_constructible.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/back_insert_iterator.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double3x2_precision.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_timeval.h:
 
@@ -2768,6 +3369,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/formatter.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/arithmetic.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_transform.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/format_parse_context.h:
 
@@ -2797,6 +3400,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/copyable.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_quat.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/file_type.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/logarithms.h:
@@ -2804,6 +3409,10 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/directory_options.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/file_time_type.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/unistd.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/file_status.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_int16_t.h:
 
@@ -2858,6 +3467,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/compare_three_way.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__exception/exception.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_int3.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__debug_utils/randomize_range.h:
 
@@ -2937,6 +3548,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_posix_availability.h:
 
+/Library/Developer/CommandLineTools/usr/lib/clang/17/include/float.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/steady_clock.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/swap.h:
@@ -2946,6 +3559,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/filesystem:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/exchange.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float3x2.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/malloc/_malloc_type.h:
 
@@ -2967,9 +3582,13 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/is_always_lock_free.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_float3.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit_reference:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/private_constructor_tag.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/scalar_int_sized.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit/rotate.h:
 
@@ -2980,6 +3599,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/resource.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/binder1st.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_int1.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit/blsr.h:
 
@@ -3049,6 +3670,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/unwrap_iter.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_int3_sized.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__configuration/platform.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/same_as.h:
@@ -3057,11 +3680,11 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/transform.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/wctype.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit/popcount.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/three_way_comp_ref_type.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_vec3.inl:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/min.h:
 
@@ -3091,6 +3714,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__ostream/basic_ostream.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float4x4.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/synth_three_way.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/binary_negate.h:
@@ -3109,31 +3734,15 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_short.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/func_exponential.inl:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/rotate.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/reverse_copy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/reverse.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_trivial.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/iterator_traits.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/find_segment_if.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__condition_variable/condition_variable.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_arithmetic.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/unary_negate.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/boolean_testable.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_null.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/copy_options.h:
-
-/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/src/glad.c:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/replace_if.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/remove_copy_if.h:
 
@@ -3180,6 +3789,10 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdint.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/string.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/quaternion.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double2x4_precision.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__config:
 
@@ -3235,6 +3848,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/make_unsigned.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float4x3.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/arm/signal.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocation_guard.h:
@@ -3269,8 +3884,6 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_wctype_t.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/xlocale.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/copy_move_common.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/pthread.h:
@@ -3283,13 +3896,25 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/is_partitioned.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cfloat:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/boolean_testable.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/includes.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float3x4.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/math.h:
 
 /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glad/glad.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_projection.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/for_each_segment.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/memory_resource.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_constructible.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/equal.h:
 
@@ -3337,9 +3962,13 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/all_of.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/assert.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/copy_cvref.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/readable_traits.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/compute_vector_relational.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/operations.h:
 
@@ -3351,7 +3980,7 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/memory.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/syslimits.h:
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_double1_precision.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_xlocale.h:
 
@@ -3363,6 +3992,10 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/replace.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/exponential_functions.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/wchar.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/binary_search.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/new:
@@ -3373,11 +4006,29 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_trivially_lexicographically_comparable.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/stdlib.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_assert.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/iostream:
 
 /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/src/main.cpp:
 
 /Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/KHR/khrplatform.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_trivial.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/iterator_traits.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/quaternion_geometric.inl:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_arithmetic.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/unary_negate.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/find_segment_if.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__condition_variable/condition_variable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/count.h:
 
@@ -3395,6 +4046,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_assignable.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/gtc/epsilon.inl:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_blksize_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_ctermid.h:
@@ -3406,6 +4059,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/function.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/binary_function.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double3x2.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_wchar_t.h:
 
@@ -3441,7 +4096,11 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/is_heap_until.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_double4x3.hpp:
+
 /Library/Developer/CommandLineTools/usr/lib/clang/17/include/ptrcheck.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/vec4.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/swappable.h:
 
@@ -3457,6 +4116,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/generate_n.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float2x4_precision.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_sigaltstack.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_fd_def.h:
@@ -3467,13 +4128,19 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/ostream_iterator.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/type_mat3x2.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__configuration/abi.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/mismatch.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/bounded_iter.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/min_element.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/copy_options.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/src/glad.c:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_null.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/semiregular.h:
 
@@ -3496,6 +4163,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_callable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/iter_swap.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/glm.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__mutex/unique_lock.h:
 
@@ -3559,19 +4228,21 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/mach/machine/_structs.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/replace_if.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/streambuf.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/equality_comparable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/fma.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/geometric.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/bitset:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/libkern/arm/_OSByteOrder.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_wchar.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_uint2.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_time.h:
 
@@ -3581,7 +4252,11 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/search.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/vector_relational.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/arm/_types.h:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/compute_common.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int64_t.h:
 
@@ -3605,6 +4280,8 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/fence.h:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/ext/matrix_float2x3_precision.hpp:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_unsigned.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/weak_result_type.h:
@@ -3627,9 +4304,15 @@ CMakeFiles/black_hole.dir/src/stb_image.cpp.o: /Users/hvu/Personal_Projects/game
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/typeinfo:
 
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/mat2x4.hpp:
+
+/Users/hvu/Personal_Projects/game/test/openGL_cpp_learn/includes/glm/detail/func_matrix.inl:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/format_string.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/inplace_merge.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/data.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/swap_allocator.h:
 

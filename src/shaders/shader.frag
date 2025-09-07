@@ -8,5 +8,6 @@ uniform sampler2D Texture2;
 uniform float visibility_of_face;
 
 void main(){
-   FragColor = mix(texture(Texture1, TexCoords), texture(Texture2, TexCoords), visibility_of_face);
+   // FragColor = mix(texture(Texture1, TexCoords), texture(Texture2, TexCoords), visibility_of_face);
+   FragColor = texture(Texture1, TexCoords);
 }

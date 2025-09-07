@@ -2,6 +2,9 @@
 #include <GLFW/glfw3.h>
 #include <stb_image.h>
 #include <stdexcept>
+#include <glm/glm.hpp>
+#include <glm/gtc/matrix_transform.hpp>
+#include <glm/gtc/type_ptr.hpp>
 
 constexpr unsigned int WINDOW_WIDTH = 800;
 constexpr unsigned int WINDOW_HEIGHT = 600;

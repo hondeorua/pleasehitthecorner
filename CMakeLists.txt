@@ -12,8 +12,9 @@ find_package(OpenGL REQUIRED)
 add_library(glad STATIC src/glad.c)
 target_include_directories(glad PUBLIC includes)
 
+find_package(glm CONFIG REQUIRED)
 
 add_executable(black_hole src/main.cpp src/glad.c src/shader.cpp
 src/stb_image.cpp)
 
-target_link_libraries(black_hole glfw OpenGL::GL glad)
+target_link_libraries(black_hole glm::glm-header-only glfw OpenGL::GL glad)

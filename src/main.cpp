@@ -36,7 +36,7 @@ int main() {
   glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
   glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GL_TRUE);
 
-  window = glfwCreateWindow(WINDOW_WIDTH, WINDOW_HEIGHT, "mommiii", NULL, NULL);
+  window = glfwCreateWindow(WINDOW_WIDTH, WINDOW_HEIGHT, "Please hit the corner", NULL, NULL);
   if (!window) {
     glfwTerminate();
     std::cout << "no gud window not created" << std::endl;
@@ -75,11 +75,10 @@ int main() {
   glGenTextures(1, &Texture1);
   glBindTexture(GL_TEXTURE_2D, Texture1);
   int width, height, nrChannels;
-  unsigned char *data = stbi_load("../src/resources/bouncing_dvd_logo.jpg", &width,
-                                  &height, &nrChannels, 0);
+  unsigned char *data = stbi_load("../src/resources/bouncing_dvd_logo.jpg", &width, &height, &nrChannels, 4);
 
   if (data) {
-    glTexImage2D(GL_TEXTURE_2D, 0, GL_RGB, width, height, 0, GL_RGB,
+    glTexImage2D(GL_TEXTURE_2D, 0, GL_RGBA, width, height, 0, GL_RGBA,
                  GL_UNSIGNED_BYTE, data);
     glGenerateMipmap(GL_TEXTURE_2D);
   } else
@@ -87,8 +86,8 @@ int main() {
 
   stbi_image_free(data);
 
-  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_REPEAT);
-  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_REPEAT);
+  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_CLAMP_TO_BORDER);
+  glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_CLAMP_TO_BORDER);
   glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
   glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER,
                   GL_LINEAR_MIPMAP_LINEAR);
@@ -149,12 +148,12 @@ int main() {
     float current_time = glfwGetTime();
     float delta_time = current_time - last_time;
     last_time = current_time;
-    
-    if (hit_wall(position)){
-      velocity = glm::reflect(velocity, normal_vect_wall(position));
-    }
 
     position += velocity * delta_time;
+
+    if (hit_wall(position)) {
+      velocity = glm::reflect(velocity, normal_vect_wall(position));
+    }
 
     glClearColor(0.0f, 0.0f, 0.0f, 1.0f);
     glClear(GL_COLOR_BUFFER_BIT);
@@ -210,12 +209,13 @@ glm::vec3 normal_vect_wall(glm::vec3 position) {
     return glm::vec3(0, -1, 0);
   if (y < 0)
     return glm::vec3(0, 1, 0);
-  return glm::vec3(-x/std::abs(x), -y/std::abs(y), 0);
+  return glm::vec3(-x / std::abs(x), -y / std::abs(y), 0);
 }
 
-bool hit_wall(glm::vec3 position){
+bool hit_wall(glm::vec3 position) {
   float x = position.x;
   float y = position.y;
-  if (std::abs(x) >= 0.65 || std::abs(y) >= 0.65) return true;
+  if (std::abs(x) >= 0.64 || std::abs(y) >= 0.64)
+    return true;
   return false;
 }
